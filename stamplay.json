@@ -1,0 +1,10 @@
+{
+  "appId": "dogz4dogz",
+  "apiKey": "2721fa4ba3b606a37592ba7d47211b045a0972c73dfc265fefc0ebb640772bd3",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
